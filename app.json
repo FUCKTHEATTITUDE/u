@@ -7,7 +7,7 @@
   "env": {
       "BOT_TOKEN": {
       "description": "Your Bot token. Get from https://t.me/botfather",
-      "value": ""
+      "value": "6249559768:AAFmG1A7WucTp83nofzUk63HXJhzf9c-v3s"
     },
     "SESSION_NAME": {
       "description": "Your Bot's username.",
@@ -16,23 +16,23 @@
     },
     "API_ID": {
       "description": "Your API_ID.  Refer project docs.",
-      "value": ""
+      "value": "14782914"
     },
     "API_HASH": {
       "description": "Your API_ID. Refer project docs.",
-      "value": ""
+      "value": "3aa2fabe1074632cf6e2b01da083a2c6"
     },
     "CLIENT_ID": {
       "description": "Your Google CLIENT_ID. Refer project docs.",
-      "value": ""
+      "value": "956304545456-djmeuuuij3cjfjclkaogsoe88h7kcr04.apps.googleusercontent.com"
     },
     "CLIENT_SECRET": {
       "description": "Your Google CLIENT_SECRET. Refer project docs.",
-      "value": ""
+      "value": "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"
     },
     "BOT_OWNER": {
       "description": "Telegram id of the bot owner.",
-      "value": ""
+      "value": "1930954213"
     },
     "AUTH_USERS": {
       "description": "Telegram id of authorised users, separated by comma",
